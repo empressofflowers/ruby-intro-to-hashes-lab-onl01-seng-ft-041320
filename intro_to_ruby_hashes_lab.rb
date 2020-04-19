@@ -1,7 +1,7 @@
 require 'pry'
 
 def new_hash
-	hash.new = {}
+	Hash = {}
 end
 
 def actor
